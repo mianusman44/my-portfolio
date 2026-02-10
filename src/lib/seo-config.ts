@@ -1,0 +1,82 @@
+export const seoConfig = {
+  title:
+    "Usman Shahzad - Full Stack Web Developer | React, Next.js, Ruby on Rails",
+  description:
+    "Experienced Full Stack Web Developer with 4+ years expertise in JavaScript, React, Next.js, Ruby on Rails, Node.js, and AWS. Available for freelance projects in Lahore, Pakistan.",
+  keywords: [
+    "Usman Shahzad",
+    "Full Stack Developer",
+    "Web Developer",
+    "React Developer",
+    "Next.js Developer",
+    "JavaScript Developer",
+    "Node.js Developer",
+    "Freelance Developer",
+    "Lahore Pakistan",
+    "Frontend Developer",
+    "Backend Developer",
+    "AWS Developer",
+    "Docker",
+    "TypeScript",
+    "MongoDB",
+    "PostgreSQL",
+  ],
+  author: "Usman Shahzad",
+  creator: "Usman Shahzad",
+  publisher: "Usman Shahzad",
+  url: "https://usman-portfolio.vercel.app",
+  image: "https://usman-portfolio.vercel.app/og-image.jpg",
+  locale: "en_US",
+  type: "website",
+};
+
+export const personalSchema = {
+  "@context": "https://schema.org",
+  "@type": "Person",
+  name: "Usman Shahzad",
+  jobTitle: "Full Stack Web Developer",
+  description:
+    "Passionate full-stack web developer with over 4 years of experience creating modern, responsive web applications.",
+  url: "https://usman-portfolio.vercel.app",
+  email: "usmanshahzad904@gmail.com",
+  telephone: "+92 313-4044062",
+  address: {
+    "@type": "PostalAddress",
+    addressLocality: "Lahore",
+    addressCountry: "Pakistan",
+  },
+  knowsAbout: [
+    "JavaScript",
+    "React",
+    "Next.js",
+    "Node.js",
+    "TypeScript",
+    "AWS",
+    "Docker",
+    "MongoDB",
+    "PostgreSQL",
+    "Full Stack Development",
+    "Web Development",
+  ],
+  hasOccupation: {
+    "@type": "Occupation",
+    name: "Full Stack Web Developer",
+    occupationLocation: {
+      "@type": "City",
+      name: "Lahore, Pakistan",
+    },
+    skills: [
+      "JavaScript",
+      "React",
+      "Next.js",
+      "Node.js",
+      "TypeScript",
+      "AWS",
+      "Docker",
+    ],
+  },
+  sameAs: [
+    "https://github.com/mianusman44",
+    "https://linkedin.com/in/muhammad-usman44",
+  ],
+};
