@@ -50,15 +50,15 @@ export default function Contact() {
     try {
       const emailjs = (await import("@emailjs/browser")).default;
       const response = await emailjs.send(
-        "service_08m9ai9",
-        "template_7a4pvr9",
+        "service_ylsrdse",
+        "template_umi4azd",
         {
           name: formState.name,
           email: formState.email,
           subject: formState.subject,
           message: formState.message,
         },
-        "jH-hNnNo2YyKiexEv"
+        "umPv0MUfDMIXINpcx"
       );
 
       console.log("Email sent successfully:", response);
@@ -161,7 +161,7 @@ export default function Contact() {
                   <div>
                     <h3 className="font-medium">Upwork Profile</h3>
                     <a
-                      href="/"
+                      href="https://www.upwork.com/freelancers/~01b5c0e1e7d6adebdf?mp_source=share"
                       target="_blank"
                       rel="noopener noreferrer"
                       className="text-muted-foreground text-sm sm:text-base hover:text-primary transition-colors flex items-center gap-1"

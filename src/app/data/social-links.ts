@@ -8,7 +8,7 @@ export const socialLinks = [
   },
   {
     name: "LinkedIn",
-    url: "www.linkedin.com/in/muhammad-usman44",
+    url: "https://pk.linkedin.com/in/muhammad-usman44",
     icon: Linkedin,
   },
 

@@ -160,7 +160,7 @@ export default function Hero() {
             <FaGithub size={24} />
           </motion.a>
           <motion.a
-            href="https://linkedin.com/in/muhammad-usman44"
+            href="https://pk.linkedin.com/in/muhammad-usman44"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-teal-600 dark:hover:text-teal-400 transition-colors"
@@ -170,7 +170,7 @@ export default function Hero() {
             <FaLinkedin size={24} />
           </motion.a>
           <motion.a
-            href=""
+            href="https://www.upwork.com/freelancers/~01b5c0e1e7d6adebdf?mp_source=share"
             target="_blank"
             rel="noopener noreferrer"
             className="text-muted-foreground hover:text-teal-600 dark:hover:text-teal-400 transition-colors"

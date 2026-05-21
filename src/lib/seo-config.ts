@@ -77,6 +77,7 @@ export const personalSchema = {
   },
   sameAs: [
     "https://github.com/mianusman44",
-    "https://linkedin.com/in/muhammad-usman44",
+    "https://pk.linkedin.com/in/muhammad-usman44",
+    "https://www.upwork.com/freelancers/~01b5c0e1e7d6adebdf?mp_source=share",
   ],
 };
