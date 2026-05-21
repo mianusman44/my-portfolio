@@ -16,10 +16,12 @@ export default function Hero() {
   const roles = useMemo(
     () => [
       "Full Stack Developer",
-      "Python Specialist",
+      "MERN Stack Specialist",
       "React Specialist",
       "Node.js Expert",
       "AI Enthusiast",
+      "Voice AI Automation Expert",
+      "",
     ],
     []
   );
